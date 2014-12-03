@@ -2,11 +2,11 @@
 ======
 6200ch Firewire Cable Box Channel Changer. Channel-change script for cable box via a 1394 (aka Firewire) connection.
 
-Supported Models:
-     * Motorola DCT-6200 
-     * Motrola / Arris DCX3200M 
+*Supported Models*:
+* Motorola DCT-6200 
+* Motrola / Arris DCX3200M 
 
-Author: Stacey Son
+**Author**: Stacey Son
 
 Original README From wiki page
 =====
